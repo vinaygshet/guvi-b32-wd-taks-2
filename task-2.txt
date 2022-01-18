@@ -1,5 +1,8 @@
 
-1.list  5 difference between browser js vs nodejs
+1. list 5 difference between browser js vs nodejs
+
+
+
 1.Type
 
 JavaScript is a simple programming language which runs in any browser JavaScript Engine. Whereas Node JS is an interpreter or running environment for a JavaScript programming language which holds a lot of excesses require libraries which can easily be accessed from JavaScript programming for better use.
@@ -24,7 +27,10 @@ JavaScript (JS) is a dynamic computer programming language . It is most commonly
 
 This is not much of a difference but Typically, JavaScript follows set standards of Java programming language. The writing of code might differ on several aspects, however, it can also be written using standard Java programming language. Node JS is written in C++ and needs to be run on V8 engine based browsers (Google Chrome).
 
+
 2.Execute the below code and write description
+
+
 
 1.typeof(1)
 
@@ -52,7 +58,7 @@ input:
 6.console.log(typeof undefined)
 7.console.log(typeof [])
 8.console.log(typeof {})
-9.console,log(typeof NaN)
+9.console.log(typeof NaN)
 
 Output:
 1.number
