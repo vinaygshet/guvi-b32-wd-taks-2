@@ -1,0 +1,66 @@
+
+1.list  5 difference between browser js vs nodejs
+1.Type
+
+JavaScript is a simple programming language which runs in any browser JavaScript Engine. Whereas Node JS is an interpreter or running environment for a JavaScript programming language which holds a lot of excesses require libraries which can easily be accessed from JavaScript programming for better use.
+
+2.Utility
+
+Js Mainly using for any client-side activity for a web application, like possible attribute validation or refreshing the page in a specific interval or provide some dynamic changes in web pages without refreshing the page.while Node JS mainly used for accessing or performing any non-blocking operation of any operating system, like creating or executing a shell script or accessing any hardware specific information or running any backend job
+
+3.Running Engine
+
+JavaScript running any engine like Spider monkey (FireFox), JavaScript Core (Safari), V8 (Google Chrome).
+
+Node JS only run in a V8 engine which mainly used by google chrome. And javascript program which will be written under this Node JS will be always run in V8 Engine.
+
+4.Built-In functionality
+
+Node.js contains a built-in HTTP server library, making it possible to run a web server without the use of external software, such as Apache or Lighttpd, and allowing more control of how the web server works
+
+JavaScript (JS) is a dynamic computer programming language . It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is has also become common in server-side programming, game development and the creation of desktop applications
+
+5.Set of Standards
+
+This is not much of a difference but Typically, JavaScript follows set standards of Java programming language. The writing of code might differ on several aspects, however, it can also be written using standard Java programming language. Node JS is written in C++ and needs to be run on V8 engine based browsers (Google Chrome).
+
+2.Execute the below code and write description
+
+1.typeof(1)
+
+2.typeof(1.1)
+
+3.typeof("1.1")
+
+4.typeof(true)
+
+5.typeof(null)
+
+6.typeof(undefined)
+
+7.typeof([])
+
+8.typeof({})
+9.typeof (NaN)
+
+input:
+1.console.log(typeof 1)
+2.console.log(typeof 1.1)
+3.console.log(typeof "1.1")
+4.console.log(typeof true)
+5.console.log(typeof null)
+6.console.log(typeof undefined)
+7.console.log(typeof [])
+8.console.log(typeof {})
+9.console,log(typeof NaN)
+
+Output:
+1.number
+2.number
+3.string
+4.boolean
+5.object
+6.undefined
+7.object
+8.object
+9.number
